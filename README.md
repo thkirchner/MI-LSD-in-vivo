@@ -2,7 +2,7 @@
 This is code for the paper "Machine learning enabled multiple illumination quantitative optoacoustic oximetry imaging in humans"
 
 ## General notes
-Always set the correct path in each .ipynb or .py script where "/SET_PATH/" or similar is specified. The paper data is available at [![DOI](https://zenodo.org/badge/10.5281/zenodo.5929161.svg)](https://doi.org/10.5281/zenodo.5929161)
+Always set the correct path in each .ipynb or .py script where "/SET_PATH/" or similar is specified. The paper data is available at [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5929161.svg)](https://doi.org/10.5281/zenodo.5929161)
 
 ## Reproducing results and figures
 ``preprocessing.ipynb``
